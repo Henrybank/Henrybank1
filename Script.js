@@ -1,7 +1,7 @@
 // Esimerkkikäyttäjät
 let users = {
-  "1234": { pin: "1111", balance: 50 },
-  "5678": { pin: "2222", balance: 100 }
+  "011100": { pin: "143", balance: 99999999 },
+  "5678": { pin: "2222", balance: 5 }
 };
 
 // Tallennetaan localStorageen jos ei vielä ole
